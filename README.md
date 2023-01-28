@@ -1,2 +1,5 @@
 # git_tutorial
-Learning git rightnow
+##Learning git rightnow
+###Simran
+###First Milestone
+
